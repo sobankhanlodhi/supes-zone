@@ -1,4 +1,4 @@
-# Supplement Store - Dual Interface Web Application
+# SupesZone - Dual Interface Web Application
 
 A modern e-commerce web application built with Next.js 15, TypeScript, and shadcn/ui, featuring both a customer-facing storefront and an administrative provider portal.
 

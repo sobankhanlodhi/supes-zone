@@ -9,7 +9,7 @@ import Footer from '@/components/layout/footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'SupplementStore - Premium Supplements & Nutrition',
+  title: 'SupesZone - Premium Supplements & Nutrition',
   description: 'Your trusted source for high-quality supplements and nutrition products.',
 };
 
